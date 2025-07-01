@@ -1,16 +1,13 @@
-## Hi there 👋
 
-<!--
-**beezanX/beezanX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**this week i spent my time on:**
+<!--START_SECTION:waka-->
 
-Here are some ideas to get you started:
+```txt
+C++          14 hrs 32 mins  ████████████████████████   96.95 %
+C            11 mins         █████░░░░░░░░░░░░░░░░░░░░  01.30 %
+JSON         8 mins          ███░░░░░░░░░░░░░░░░░░░░░░  00.91 %
+Bash         6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░  00.76 %
+Other        0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░  00.05 %
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--END_SECTION:waka-->
